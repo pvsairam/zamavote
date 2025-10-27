@@ -3,7 +3,7 @@ import { sepolia } from 'wagmi/chains';
 import { getDefaultConfig } from '@rainbow-me/rainbowkit';
 
 export const config = getDefaultConfig({
-  appName: 'ZamaVote',
+  appName: 'zVote',
   projectId: '9a16289bc3c40be7c13d0ef277a838c8',
   chains: [sepolia],
   transports: {
