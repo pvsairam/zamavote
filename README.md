@@ -1,7 +1,7 @@
-# ZamaVote - Privacy-Preserving Decentralized Voting dApp
+# zVote - Privacy-Preserving Decentralized Voting dApp
 
 ## Overview
-ZamaVote is a fully decentralized voting application built with Zama's FHEVM (Fully Homomorphic Encryption Virtual Machine). Its primary purpose is to enable private, encrypted on-chain voting where individual votes remain confidential while allowing for aggregate vote counting. The dApp features permissionless proposal creation, encrypted vote casting, and client-side decryption of results by proposal creators. This project aims to deliver a production-ready solution for truly private blockchain-based voting.
+zVote is a fully decentralized voting application built with Zama's FHEVM (Fully Homomorphic Encryption Virtual Machine). Its primary purpose is to enable private, encrypted on-chain voting where individual votes remain confidential while allowing for aggregate vote counting. The dApp features permissionless proposal creation, encrypted vote casting, and client-side decryption of results by proposal creators. This project aims to deliver a production-ready solution for truly private blockchain-based voting.
 
 ## Key Features
 - ✅ **Fully Private Voting**: Individual votes encrypted on-chain using FHEVM
