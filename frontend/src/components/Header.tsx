@@ -13,7 +13,7 @@ export default function Header() {
               </svg>
             </div>
             <span className="text-xl font-bold text-white group-hover:text-primary-400 transition-colors">
-              ZamaVote
+              zVote
             </span>
           </Link>
           
